@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriela Dias.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Python Programming Language.
+- 💞️ I'm looking to collaborate and develop projects to deepen myself and learn.
+- 📫 How to reach me: https://www.linkedin.com/in/gabriela-dias-a23b252a0/ 

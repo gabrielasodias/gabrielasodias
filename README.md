@@ -21,8 +21,6 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
@@ -31,7 +29,21 @@
 
 <br>
 
-<p> - 💻 I’m a Software Developer. </p>
-<p> - 📌 Working on Projects. </p>
-<!-- <p> - 📚 I’m currently learning Python and Django Framework. </p> -->
-<p> - 🎓 Analysis and Systems Development. </p>
+### 🌐 Where to Find Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/gabriela-dias-so20)
+<!-- 💻 [Portfolio]()  -->
+- 📫 Email: gabrieladiasofc@gmail.com
+
+---
+
+### 💬 Quote That Inspires Me
+
+> *"It’s not about being the best in the world. It’s about being better than you were yesterday."*
+
+---
+
+<p align="center">
+  Thank you for visiting my profile! 💙
+</p>
+
